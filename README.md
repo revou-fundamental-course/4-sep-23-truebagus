@@ -3,4 +3,4 @@
 
 <body>
     <h1>GitHub README Example</h1>
-    <h2>Hello it's me Tubagus, I love Learning</h2>
+    <p>Hello it's me Tubagus, I love Learning about IT for example this is my first project from RevoU but sorry this is too bad :(</p>
